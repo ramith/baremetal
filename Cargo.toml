@@ -5,3 +5,4 @@ authors = ["Ramith Jayasinghe <ramithj@live.com>"]
 
 [dependencies]
 tokio = "0.1.21"
+rkv = "0.9.5"
