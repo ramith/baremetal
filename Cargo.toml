@@ -1,6 +1,7 @@
 [package]
 name = "baremetal"
 version = "0.1.0"
-authors = ["Ramith Jayasinghe <jayasinghe@xiges.io>"]
+authors = ["Ramith Jayasinghe <ramithj@live.com>"]
 
 [dependencies]
+tokio = "0.1.21"
