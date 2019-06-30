@@ -4,5 +4,11 @@ version = "0.1.0"
 authors = ["Ramith Jayasinghe <ramithj@live.com>"]
 
 [dependencies]
-tokio = "0.1.21"
-rkv = "0.9.5"
+actix-rt = "0.2.2"
+actix-web = "1.0.2"
+actix-files = "0.1.1"
+actix-session = "0.1.1"
+
+futures = "0.1.27"
+env_logger = "0.6.1"
+bytes = "0.4.12"
